@@ -2,6 +2,7 @@
 
 This project shows how to build a online course website.
 Main folders:
+
 `apps` includes all functions we are trying to implement
 - users
 - courses
