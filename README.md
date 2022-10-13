@@ -7,6 +7,7 @@ Main folders:
 - courses
 - organizations (who are holding courses)
 - operation (e.g., add favorite course to user's profile)<br>
+
 `media` contains the images used in building the website outlook<br>
 `MxOnline_Class` is the main folder containing the main `setting` and `url `<br>
 `static` has the images for courses and users<br>
